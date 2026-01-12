@@ -1,1 +1,2 @@
-"My fist Git commit" 
+"My fist Git commit"
+"changes from feature branch" 
