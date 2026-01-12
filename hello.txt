@@ -1,7 +1,6 @@
-HEAD
+
 "My fist Git commit" 
 "changes from master branch"
 
 "My fist Git commit"
 "changes from feature branch" 
- feature-conflict
